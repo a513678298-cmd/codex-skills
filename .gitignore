@@ -1,0 +1,20 @@
+# Local credentials and generated files
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+**/auth.json
+**/credentials.json
+*.pem
+*.key
+*.pfx
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+.cache/
+*.log
+.DS_Store
+Thumbs.db
